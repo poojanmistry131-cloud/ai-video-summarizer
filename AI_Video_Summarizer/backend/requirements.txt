@@ -7,3 +7,5 @@ openai-whisper==20231117
 yt-dlp==2024.5.27
 requests==2.32.3
 reportlab==4.2.0
+python-dotenv==1.2.4
+streamlit==1.40.2
